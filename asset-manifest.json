@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/korkie-react-ts/static/css/main.99581629.css",
-    "main.js": "/korkie-react-ts/static/js/main.39213e40.js",
+    "main.js": "/korkie-react-ts/static/js/main.55cc8943.js",
     "static/js/787.8c033c79.chunk.js": "/korkie-react-ts/static/js/787.8c033c79.chunk.js",
     "index.html": "/korkie-react-ts/index.html",
     "main.99581629.css.map": "/korkie-react-ts/static/css/main.99581629.css.map",
-    "main.39213e40.js.map": "/korkie-react-ts/static/js/main.39213e40.js.map",
+    "main.55cc8943.js.map": "/korkie-react-ts/static/js/main.55cc8943.js.map",
     "787.8c033c79.chunk.js.map": "/korkie-react-ts/static/js/787.8c033c79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99581629.css",
-    "static/js/main.39213e40.js"
+    "static/js/main.55cc8943.js"
   ]
 }
