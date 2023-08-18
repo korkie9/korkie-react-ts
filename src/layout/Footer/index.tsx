@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="main-banner-cont">
       <div className="banner">
         <h3>
-          <strong>KORKIE</strong>
+          <strong>JUSTIN KORKIE</strong>
         </h3>
         <div className="bannerone-content">
           <div className="banner-info">
